@@ -1,3 +1,7 @@
 Servers/*
 RemoteSystemsTempFiles/*
 .metadata/*
+/SolutionSet/.settings/*
+/SolutionSet/bin/*
+/SolutionSet/.classpath
+/SolutionSet/.project
