@@ -5,3 +5,5 @@ RemoteSystemsTempFiles/*
 /SolutionSet/bin/*
 /SolutionSet/.classpath
 /SolutionSet/.project
+/JavaSolution/bin/*
+/JavaSolution/.classpat
